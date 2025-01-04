@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "rating": "5⭐",
+    "review": "Absolutely loved this trip! Highly recommended.",
+    "image": "https://picsum.photos/id/1015/400/300"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "rating": "4.5⭐",
+    "review": "Beautiful place, great service.",
+    "image": "https://picsum.photos/id/1016/400/300"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "rating": "4⭐",
+    "review": "Great experience overall, but the flight was delayed.",
+    "image": "https://picsum.photos/id/1018/400/300"
+  }
+]
